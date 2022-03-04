@@ -8,10 +8,11 @@ See the [README-Student-HowTo.md](https://github.com/dhlab-epfl-students/EPFL-DH
 ## Project overview
 
 
-List of MA/BA semester projects and of master projects carried out at the DHLAB (sometimes in collaboration with an external partner), with links to code repositories and reports.     
+List of MA/BA semester projects and of master projects carried out at the DHLAB (sometimes in collaboration with an external partner), with links to code repositories and reports.  
+   
 See also the student project page on the DHLAB [website](https://www.epfl.ch/labs/dhlab/index-html/student-projects/).
 
-:warning: **page under construction, links are being added.**
+:warning: **Page under construction, links are being added.**
 
 ### Spring 2022
 
