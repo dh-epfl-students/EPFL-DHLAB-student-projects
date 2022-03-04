@@ -1,18 +1,24 @@
-# Overview of EPFL-DHLAB student projects
+# EPFL-DHLAB student projects
 
-This page keeps track  of student projects carried out at the DHLAB, with links towards code repositories and reports.     
+## Technical specifications
+
+See the [README-Student-HowTo.md](https://github.com/dhlab-epfl-students/EPFL-DHLAB-student-projects/blob/main/README-Student-HowTo.md) in this repository.
+
+
+## Project overview
+
+
+List of MA/BA semester projects and of master projects carried out at the DHLAB (sometimes in collaboration with an external partner), with links to code repositories and reports.     
 See also the student project page on the DHLAB [website](https://www.epfl.ch/labs/dhlab/index-html/student-projects/).
 
-## Spring 2022 (ongoing)
+:warning: **page under construction, links are being added.**
 
-- [Image classification in historical newspapers](https://github.com/impresso/impresso-image-classification), MA semester project (optional) by **Pauline Conti** (Communication Systems). Report available [here (tbu)]().
+### Spring 2022
 
-- [Recognition and classification of maps in historical newspapers](https://github.com/impresso/impresso-image-classification), BA semester project by **Salma Ed Dahabi** (Communication Systems). Report available [here (tbu)]().
-
-
+*(ongoing)*
 
 
-## Fall 2021
+### Fall 2021
 
 - [Dictionnary of novel characters (continued)](https://github.com/dhlab-epfl-students/character-relation-extraction), MA semester project by **Juliette Meurguet** (Communication Systems). Report available [here MISSING]().   
   
@@ -26,7 +32,7 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 
 - [TO COMPLETE](),  PhD semester project by **Beatrice Vaienti** (Digital Humanities). Report available [here MISSING]().
 
-## Spring 2021
+### Spring 2021
 
 - [Character's Dictionary](https://github.com/dhlab-epfl-students/characters-dictionary), BA semester project (optional) by **Beatriz Borges** (Communication System). Report available [here MISSING](), also followed by a [paper submission](https://github.com/dhlab-epfl-students/automatic-characters).
 
@@ -44,13 +50,13 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 
 
 
-## Fall 2020
+### Fall 2020
 
 - [Exploring a large corpus of historical newspapers through implicit entity networks / CODE LINK MISSING](), MA semester project by **Julien Salomon** (Communication Systems). Report available [here MISSING]().
 - [Information extraction from Geneva botanical garden historical herbarium(s)/ CODE LINK MISSING](), Master project by **Simon Maulini**. Master thesis available [here / MSSING]().
 
 
-## Spring 2020
+### Spring 2020
 
 - [Exploring a large corpus of historical newspapers through implicit entity networks](), MA semester project by **Isabelle Pumford** (Computer Science). Report available [here MISSING]().
 
@@ -66,7 +72,7 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 
 
 
-## Fall 2019
+### Fall 2019
 - [Metadata mining of large collections of historical newspapers/ CODE LINK MISSING](), MA semester project by **Justine Weber** (Data Science). Report available [here MISSING]().
 
 - [Improving handwritten text recognition with transfer learning/ CODE LINK MISSING](), MA semester project by **Karthigan Sinnathamby**. Report available [here MISSING]().
@@ -74,7 +80,7 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 - [Historical newspaper article segmentation and classification using visual and textual features/ CODE LINK MISSING](), PhD semester project by **Raphael Barman** (Digital Humanities). Journal publication available [here](https://infoscience.epfl.ch/record/282863).
 
 
-## Spring 2019
+### Spring 2019
 - [Historical newspaper article segmentation and classification using visual and textual features/ CODE LINK MISSING](), Master project by **Raphael Barman** (Digital Humanities). Master thesis available [here MISSING]().
 
 - [Automated geographical alignment procedure through dense point clouds simplification/ CODE LINK MISSING](), Master project by **Loris Aiulfi**. Master thesis available [here MISSING]().
@@ -90,16 +96,16 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 - [Numérisation de masse : vers la création d’un nouvel acteur de l’information - Le Projet Time Machine](), Internship project by **Camille Besse** (Ecole Nationale des Chartes, Paris, France). Report available [here MISSING]().
 
 
-## Fall 2018
+### Fall 2018
 
 
-## Spring 2018
+### Spring 2018
 - [citation entity disambiguation / CODE LINK MISSING](), XXX project by **Tao Sun** (Section). Report available [here MISSING]().
 - [reference parsing / CODE LINK MISSING](), XXX project by **Mattia Martinelli** (Section). Report available [here MISSING]().
 
 
 
-## Fall 2017
+### Fall 2017
 - [SmartCloud / CODE LINK MISSING](), MA semester project by **Loris Aiufli** (Section). Report available [here MISSING]().
 
 - [ Ancient Photogrammetry / CODE LINK MISSING](), Master project by **Yann Perret** (Section). Master thesis available [here MISSING]().
@@ -108,7 +114,7 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 
 
 
-## Spring 2017
+### Spring 2017
 - [Automatic extraction and cleaning of digitized photo-archives/ CODE LINK MISSING](), MA semester project by **Petrovski Bojan** (Section). Report available [here MISSING]().
 
 - [Automatic metadata extraction of digitized photo-archives/ CODE LINK MISSING](), MA semester project by **Nie Shiyue** (Section). Report available [here MISSING]().
@@ -126,11 +132,11 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 
 
 
-## Fall 2016
+### Fall 2016
 - [ OCR Correction of *Le Temps* / CODE LINK MISSING](), Master project by **Laurent Valette** (Computer Science). Master thesis available [here MISSING]().
 
 
-## Spring 2016 
+### Spring 2016 
 
 - [ Correcting the Optical Character Recognition of Swiss daily newspaper *Le Temps* / CODE LINK MISSING](), MA semester project by **Arnaud Miribel** (Communication Systems). Report available [here MISSING]().
 
