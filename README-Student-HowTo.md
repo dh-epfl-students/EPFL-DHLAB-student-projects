@@ -6,21 +6,19 @@ See also information in these [slides](https://github.com/dhlab-epfl-students/) 
 
 
 - [GitHub repository](#your-github-repository)
-- [How-to: Student projects](#how-to-student-projects)
-- [Various memos and links](#various-memos-and-links)
-- [Data and Code](#data-and-code)
+- [Working with a remote EPFL server](#working-with-a-remote-EPFL-server)
 
-## Your GitHub repository:
 
-### Naming
-Please name your repository as follows:
+## GitHub repository:
+
+**Naming:**
 
 - use lower case;
 - use hyphens to separate tokens;
 - if related to a larger project, start with the name of this project, followed by the name of your project (e.g. `impresso-image-classification`);
 - in case of doubt, ask your supervisors;
 
-### Structure
+**Structure:**    
 You are free to structure your repository as you wish, but we advise to have:
 
 - a `notebooks` folder, for your working notebook;
@@ -29,7 +27,8 @@ You are free to structure your repository as you wish, but we advise to have:
 - a README, with the information specified below.
 
 
-### What should be in your README
+**What should be in your README:**
+
 - **Basic information**
     - your name
     - the names of supervisors
@@ -41,11 +40,10 @@ You are free to structure your repository as you wish, but we advise to have:
     - compilation (if necessary)
     - usage: how to run your code
 - **License**    
-    We encourage you to choose an open license (e.g. AGPL, GPL, LGPL or MIT).
-    License files are already available in GH (add new file, start typing license, choices will appear).
+    We encourage you to choose an open license (e.g. AGPL, GPL, LGPL or MIT).    
+    License files are already available in GH (add new file, start typing license, choices will appear).    
     You can also add the following at the end of your README:       
    
-	    
 	    project_name - Jean Dupont    
 	    Copyright (c) Year EPFL    
 	    This program is licensed under the terms of the [license]. 
@@ -63,16 +61,16 @@ If necessary the DHLAB can grant you access to a machine on the IC cluster:
 	- 2 GPUs
 	- 200GB of disk space on `/`
 	- 12TB of disk space under `scratch`
--  :exclamation: **important**: the machine is shared and given ths small size of `/`, do not store your data (i.e. the data you work with, intermediary results, models, various resources, etc.) in your `home` but under `scratch/students` where you can do your own folder. 
+-  :warning: **important**: the machine is shared and given ths small size of `/`, do not store your data (i.e. the data you work with, intermediary results, models, various resources, etc.) in your `home` but under `scratch/students` where you can do your own folder. 
 
 
-For people using Python on a cluster node: 
+### For people using Python on a cluster node
 
 - create a **local** python environment (using conda or pipenv)
 - to easily code locally and run things remotely, configure your IDE to save your code on the remote serveur as you code (e.g. with [PyCharm](https://www.jetbrains.com/help/pycharm/creating-a-remote-server-configuration.html).
      
 
-**How to access a notebook on a remote server**
+### How to access a notebook on a remote server
 
 In order to access a jupyter notebook which runs on a remote server you need to configure the jupyter server-client setting accordingly. Have a look [here](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html#running-a-notebook-server). 
 
@@ -93,9 +91,9 @@ If you run `jupyter notebook` the notebook will start and be accessible at http:
 In order to leave it open while you are executing things, you can run the notebook in a screen.
 
 
-**How to create another shell session and detach from is: use `screen`**     
+### How to create another shell session and detach from is: use `screen`     
 
-Main commands:
+**Main commands:**
 
 - create a session: `screen -S name_of_the_session`  =>  you are in
 - go out of a session: `Ctrl-A D` => session still running, you are out
@@ -104,13 +102,13 @@ Main commands:
 - in case you are reconnecting from inside (by mistake):  `screen -rd name_of_the_session`
 - to list all active screens: `screen -ls`
 
-Documentation:
+**Documentation:**
 
 - Tutorial: [https://linuxize.com/post/how-to-use-linux-screen/](https://linuxize.com/post/how-to-use-linux-screen/) 
 - Full documentation: [https://linux.die.net/man/1/screen](https://linux.die.net/man/1/screen)
 - Also available via `man screen`
 
-Steps to work with a notebook in a screen:
+**Steps to work with a notebook in a screen:**
 
 - `cd [your repo]`
 - `screen -S work` => you are in a screen named "work" where you will launch the notebook
