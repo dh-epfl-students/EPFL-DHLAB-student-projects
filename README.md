@@ -23,7 +23,7 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 
 - [Dictionnary of novel characters (continued)](https://github.com/dhlab-epfl-students/character-relation-extraction), MA semester project by **Juliette Meurguet** (Communication Systems). Report available [here MISSING]().   
   
-- [Automatic tabular data extraction and classification in large-scale newspaper archives](https://github.com/impresso/impresso-table-processing), Master project by **Arthur Vernet** (Data Science).  Master thesis available [here MISSING](https://infoscience.epfl.ch/record/291895).
+- [Automatic tabular data extraction and classification in large-scale newspaper archives](https://github.com/impresso/impresso-table-processing), Master project by **Arthur Vernet** (Data Science).  Master thesis available [here](https://infoscience.epfl.ch/record/291895).
  
 - [Named Entity Recognition and Linking on the Historical Dictionary of Switzerland](https://github.com/dddpt-epfl-phd/dhs-nerd/), PhD semester project by Didier Dupertuis (Digital Humanities).  Report available [here MISSING]().
 
@@ -35,7 +35,7 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 
 ### Spring 2021
 
-- [Character's Dictionary](https://github.com/dhlab-epfl-students/characters-dictionary), BA semester project (optional) by **Beatriz Borges** (Communication System). Report available [here MISSING](), also followed by a [paper submission](https://github.com/dhlab-epfl-students/automatic-characters).
+- [Character's Dictionary](https://github.com/dhlab-epfl-students/characters-dictionary), BA semester project (optional) by **Beatriz Borges** (Communication System). Report available [here](https://github.com/dhlab-epfl-students/characters-dictionary/blob/main/report/main.pdf), also followed by a [paper submission](https://github.com/dhlab-epfl-students/automatic-characters).
 
 - [Icono Lausanne – reorientation of the photographic archives of the Historical Museum/ CODE LINK MISSING](),  MA semester project by **Boubacar Camara** (Computer Science). Report available [here MISSING]().
 
@@ -43,23 +43,20 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 
 - [Analysing Visual Pattern Propagation in Large Photo Corpora of Paintings/ CODE LINK MISSING](),  PhD semester project by **Paul Guhennec** (Digital Humanities). Report available [here MISSING]().
 
-
 - [TO COMPLETE](),  PhD semester project by **Didier Dupertuis** (Digital Humanities). Report available [here]().
 
 - [TO COMPLETE](),  PhD semester project by **Paul Guhennec** (Digital Humanities). Report available [here]().
 
 
-
-
 ### Fall 2020
 
-- [Exploring a large corpus of historical newspapers through implicit entity networks / CODE LINK MISSING](), MA semester project by **Julien Salomon** (Communication Systems). Report available [here MISSING]().
+- [Exploring a large corpus of historical newspapers through implicit entity networks](https://github.com/dhlab-epfl-students/impresso-LOAD-salomon), MA semester project by **Julien Salomon** (Communication Systems). Report available [here](https://github.com/dhlab-epfl-students/impresso-LOAD-salomon/blob/master/report/ImpressoLOAD%20Report%20Salomon.pdf).
 - [Information extraction from Geneva botanical garden historical herbarium(s)/ CODE LINK MISSING](), Master project by **Simon Maulini**. Master thesis available [here / MSSING]().
 
 
 ### Spring 2020
 
-- [Exploring a large corpus of historical newspapers through implicit entity networks](), MA semester project by **Isabelle Pumford** (Computer Science). Report available [here MISSING]().
+- [Exploring a large corpus of historical newspapers through implicit entity networks](https://github.com/dhlab-epfl-students/impresso-LOAD-pumford), MA semester project by **Isabelle Pumford** (Computer Science). Report available [here](https://github.com/dhlab-epfl-students/impresso-LOAD-pumford/blob/master/report/DHLAB_Report.pdf).
 
 - [Project Title](), Master project by **Marion Kramer** (Digital Humanities). Master thesis available [here MISSING]().
 
@@ -74,25 +71,25 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 
 
 ### Fall 2019
-- [Metadata mining of large collections of historical newspapers/ CODE LINK MISSING](), MA semester project by **Justine Weber** (Data Science). Report available [here MISSING]().
+- [Metadata mining of large collections of historical newspapers(https://github.com/dhlab-epfl-students/impresso-metadata-explorer), MA semester project by **Justine Weber** (Data Science). Report available [here](https://github.com/dhlab-epfl-students/impresso-metadata-explorer/blob/master/report/report.pdf).
 
-- [Improving handwritten text recognition with transfer learning/ CODE LINK MISSING](), MA semester project by **Karthigan Sinnathamby**. Report available [here MISSING]().
+- [Improving handwritten text recognition with transfer learning](https://github.com/dhlab-epfl-students/htr-curriculum-semi-supervision), MA semester project by **Karthigan Sinnathamby**. Report available [here](https://github.com/dhlab-epfl-students/htr-curriculum-semi-supervision/blob/master/report/report.pdf).
 
-- [Historical newspaper article segmentation and classification using visual and textual features/ CODE LINK MISSING](), PhD semester project by **Raphael Barman** (Digital Humanities). Journal publication available [here](https://infoscience.epfl.ch/record/282863).
+- [Historical newspaper article segmentation and classification using visual and textual features](https://github.com/dhlab-epfl/dhSegment-text-torch), PhD semester project by **Raphael Barman** (Digital Humanities). Journal publication available [here](https://infoscience.epfl.ch/record/282863).
 
 
 ### Spring 2019
-- [Historical newspaper article segmentation and classification using visual and textual features/ CODE LINK MISSING](), Master project by **Raphael Barman** (Digital Humanities). Master thesis available [here MISSING]().
+- [Historical newspaper article segmentation and classification using visual and textual features](https://github.com/dhlab-epfl/dhSegment-text-torch), Master project by **Raphael Barman** (Digital Humanities). Master thesis available [here](https://infoscience.epfl.ch/record/271306?ln=en).
 
 - [Automated geographical alignment procedure through dense point clouds simplification/ CODE LINK MISSING](), Master project by **Loris Aiulfi**. Master thesis available [here MISSING]().
 
 - [Reconstruction du Louvre en 4D / CODE LINK MISSING](), Master project by **Descombes Albane Bénédicte** (Digital Humanities). Master thesis available [here MISSING]().
 
-- [Historical newspaper image classification / CODE LINK MISSING](), MA semester project (optional) by **Edoardo Holzl** and  **Lucas Gauchoux ** (Communication Systems). Report available [here MISSING]().
+- [Historical newspaper image classification](https://github.com/dhlab-epfl-students/impresso-image-classification), MA semester project (optional) by **Edoardo Holzl** and  **Lucas Gauchoux** (Communication Systems). Report available [here](https://github.com/dhlab-epfl-students/impresso-image-classification/blob/master/report/Impresso_Report.pdf).
 
-- [Draining YouTube  / CODE LINK MISSING](), MA semester project by **Rubiato Xabier** (Applied Physics). Report available [here MISSING]().
+- [Draining YouTube](https://github.com/dhlab-epfl-students/Draining-Youtube), MA semester project by **Rubiato Xabier** (Applied Physics). Report available [here MISSING]().
 
-- [Metadata mining of large collections of historical newspapers / CODE LINK MISSING](), XXX project by **Christian Gassner** (Section). Report available [here MISSING]().
+- [Metadata mining of large collections of historical newspapers](https://github.com/dhlab-epfl-students/impresso-frequency-analyzer), XXX project by **Christian Gassner** (Section). Report available [here](https://github.com/dhlab-epfl-students/impresso-frequency-analyzer/blob/master/report/final_report.pdf).
 
 - [Numérisation de masse : vers la création d’un nouvel acteur de l’information - Le Projet Time Machine](), Internship project by **Camille Besse** (Ecole Nationale des Chartes, Paris, France). Report available [here MISSING]().
 
