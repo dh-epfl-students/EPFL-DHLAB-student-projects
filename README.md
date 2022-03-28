@@ -18,6 +18,8 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 
 *(ongoing)*
 
+- [Pushing the limits of optical character recognition on complex multilingual documents](https://github.com/AjaxMultiCommentary/ajmc/tree/main/ocr), MA (and respectively BA) semester projects by **Ziqi Zhao** (Computer Science) and **Jérôme Ceccaldi** (Computer Science). 
+
 
 ### Fall 2021
 
