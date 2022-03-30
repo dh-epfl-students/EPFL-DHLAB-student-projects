@@ -83,7 +83,7 @@ See also the student project page on the DHLAB [website](https://www.epfl.ch/lab
 
 - [Automated geographical alignment procedure through dense point clouds simplification/ CODE LINK MISSING](), Master project by **Loris Aiulfi**. Master thesis available [here MISSING]().
 
-- [Reconstruction du Louvre en 4D / CODE LINK MISSING](), Master project by **Descombes Albane Bénédicte** (Digital Humanities). Master thesis available [here MISSING]().
+- [Reconstruction du Louvre en 4D](https://github.com/adescombes/louvre4D), Master project by **Descombes Albane Bénédicte** (Digital Humanities). Master thesis available [here](https://github.com/adescombes/louvre4D/blob/master/thesis_2019-descombes-albane-red.pdf).
 
 - [Historical newspaper image classification](https://github.com/dhlab-epfl-students/impresso-image-classification), MA semester project (optional) by **Edoardo Holzl** and  **Lucas Gauchoux** (Communication Systems). Report available [here](https://github.com/dhlab-epfl-students/impresso-image-classification/blob/master/report/Impresso_Report.pdf).
 
