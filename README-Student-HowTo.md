@@ -83,15 +83,16 @@ export TMPDIR="/scratch/<your-scracth-folder>/.pipenv_tmpdir" # tells pip to use
 Some sources: [temporary directory](https://github.com/pypa/pip/issues/5816), [create pipenv in current directory](https://stackoverflow.com/questions/50598220/pipenv-how-to-force-virtualenv-directory)
 	
 #### conda
-Note: conda is untested by author (Didier), please update with your experience if there are more steps.
 
-With conda, create your environment with the `--prefix` option:
+Before creating any conda environment execute the following two commands to ensure the conda environments (and packages) will be stored on the `/scratch/` instead of the `/home/`:
 ```sh
-conda create --prefix /scratch/<path-to-your-project-folder>
+conda config --add envs_dirs /scratch/$USER/.conda/envs
+conda config --add pkgs_dirs /scratch/$USER/.conda/pkgs
 ```
 
-[documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#specifying-a-location-for-an-environment)
+Moreover, it is good practice to regularly clean your conda packages: `clean conda --all`
 
+Documentation: [envs_dirs](https://conda.io/projects/conda/en/latest/user-guide/configuration/use-condarc.html#specify-environment-directories-envs-dirs), [pkgs_dirs](https://conda.io/projects/conda/en/latest/user-guide/configuration/use-condarc.html#specify-package-directories-pkgs-dirs ), [clean](https://conda.io/projects/conda/en/latest/commands/clean.html)
 ### How to access a notebook on a remote server
 
 In order to access a jupyter notebook which runs on a remote server you need to configure the jupyter server-client setting accordingly. Have a look [here](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html#running-a-notebook-server). 
