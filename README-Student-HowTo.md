@@ -2,7 +2,7 @@
 
 Information for EPFL students doing a MA/BA semester project or master project at the EPFL-DHLAB.
 
-See also information in these [slides](https://github.com/dhlab-epfl-students/) (EPFL only).
+See also information in these [slides](https://docs.google.com/presentation/d/1z6iEMMcHeRg0eRZqO0SqqvbVMh0pFAl-WYM3wPpPHRI/edit?usp=sharing) (EPFL only).
 
 
 - [GitHub repository](#your-github-repository)
