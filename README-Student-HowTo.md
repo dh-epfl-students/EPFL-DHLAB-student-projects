@@ -66,9 +66,35 @@ If necessary the DHLAB can grant you access to a machine on the IC cluster:
 
 ### For people using Python on a cluster node
 
-- create a **local** python environment (using conda or pipenv)
-- to easily code locally and run things remotely, configure your IDE to save your code on the remote serveur as you code (e.g. with [PyCharm](https://www.jetbrains.com/help/pycharm/creating-a-remote-server-configuration.html).
+- create a **local** python environment using conda or pipenv. You need to ensure your environment is on the `/scratch/`, not `/home/`, to do so check guides just below.
+- to easily code locally and run things remotely, configure your IDE to save your code on the remote serveur as you code (e.g. with [PyCharm](https://www.jetbrains.com/help/pycharm/creating-a-remote-server-configuration.html), [Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh-tutorial)).
      
+#### pipenv
+
+Note: the following procedure for pipenv has not been throughly tested, if you test it and there are other steps, please update this document via a pull request
+
+To ensure you are not using `/home`, there are two things to do: 1) ensure your pipenv environments are not installed in `/home`, 2) ensure pip's temporary directory (where pip downloads the files before loading them into the environment) is not on `/home`.
+
+1) Create the temporary directory `mkdir /scratch/<your-scracth-folder>/.pipenv_tmpdir`	
+2) Add the following lines to your `/home/<user>/.bashrc/``file:
+```sh
+export PIPENV_VENV_IN_PROJECT=1 # tells pip to create the environment in the folder where you're creating it.
+export TMPDIR="/scratch/<your-scracth-folder>/.pipenv_tmpdir" # tells pip to use this folder as the temporary directory
+```
+	
+Some sources: [temporary directory](https://github.com/pypa/pip/issues/5816), [create pipenv in current directory](https://stackoverflow.com/questions/50598220/pipenv-how-to-force-virtualenv-directory)
+	
+#### conda
+
+Before creating conda environments, you need to execute the following two commands. They configure conda so that environments (and packages) are stored on the `/scratch/` instead of the `/home/`:
+```sh
+conda config --add envs_dirs /scratch/$USER/.conda/envs
+conda config --add pkgs_dirs /scratch/$USER/.conda/pkgs
+```
+
+Moreover, it is good practice to regularly clean your conda packages: `clean conda --all`
+
+Documentation: [envs_dirs](https://conda.io/projects/conda/en/latest/user-guide/configuration/use-condarc.html#specify-environment-directories-envs-dirs), [pkgs_dirs](https://conda.io/projects/conda/en/latest/user-guide/configuration/use-condarc.html#specify-package-directories-pkgs-dirs ), [clean](https://conda.io/projects/conda/en/latest/commands/clean.html)
 
 ### How to access a notebook on a remote server
 
