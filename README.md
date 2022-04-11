@@ -1,18 +1,13 @@
 # EPFL-DHLAB student projects
 
-## Technical specifications
-
-See the [README-Student-HowTo.md](https://github.com/dhlab-epfl-students/EPFL-DHLAB-student-projects/blob/main/README-Student-HowTo.md) in this repository.
-
-
-## Project overview
-
-
-List of MA/BA semester projects and of master projects carried out at the DHLAB - sometimes in collaboration with an external partner - with links to code repositories and reports.  
+List of BA & MA semester and master projects carried out at the DHLAB with links to code and reports.  
    
-See also the student project page on the DHLAB [website](https://www.epfl.ch/labs/dhlab/index-html/student-projects/).
+See also:
 
-:warning: **Page under construction, links are being added.**
+- :wrench: the **technical specifications** in the [README-Student-HowTo.md](https://github.com/dhlab-epfl-students/EPFL-DHLAB-student-projects/blob/main/README-Student-HowTo.md).
+- :computer: the **student project page** on the DHLAB [website](https://www.epfl.ch/labs/dhlab/index-html/student-projects/).
+
+:warning: **Page under construction, links are being added.** :warning:
 
 ### Spring 2022
 
