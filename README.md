@@ -15,6 +15,10 @@ See also:
 
 - [Pushing the limits of optical character recognition on complex multilingual documents](https://github.com/AjaxMultiCommentary/ajmc/tree/main/ocr), MA (and respectively BA) semester projects by **Ziqi Zhao** (Computer Science) and **Jérôme Ceccaldi** (Computer Science). 
 
+- [Historical Newspaper Image Classification](https://github.com/impresso/impresso-image-classification) (branch or folder `pauline'), MA optional semester project by **Pauline Isabel Conti** (Data Science). Report available [here](https://github.com/impresso/impresso-image-classification/blob/pauline/report-conti-pauline/report.pdf).
+
+- [Identification and Classification of Maps in Historical Newspapers](https://github.com/impresso/impresso-image-classification), BA semester project by **Salma Ed Dahabi**. Report available [here](https://github.com/impresso/impresso-image-classification/tree/main/rapport_eddahabi_salma).
+
 
 ### Fall 2021
 
