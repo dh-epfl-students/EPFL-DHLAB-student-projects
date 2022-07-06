@@ -9,6 +9,11 @@ See also:
 
 :warning: **Page under construction, links are being added.** :warning:
 
+**Template**
+```
+- [Title of Project](Link to GH repo), [level: BA/MA] [semester project|master project] by **Name of Student** (Name of Section). Report available [here](Link to PDF).
+```
+
 ### Spring 2022
 
 *(ongoing)*
@@ -17,7 +22,12 @@ See also:
 
 - [Historical Newspaper Image Classification](https://github.com/impresso/impresso-image-classification) (branch or folder `pauline'), MA optional semester project by **Pauline Isabel Conti** (Data Science). Report available [here](https://github.com/impresso/impresso-image-classification/blob/pauline/report-conti-pauline/report.pdf).
 
-- [Identification and Classification of Maps in Historical Newspapers](https://github.com/impresso/impresso-image-classification), BA semester project by **Salma Ed Dahabi**. Report available [here](https://github.com/impresso/impresso-image-classification/tree/main/rapport_eddahabi_salma).
+- [Identification and Classification of Maps in Historical Newspapers](https://github.com/impresso/impresso-image-classification), BA semester project by **Salma Ed Dahabi** (Communication Systems). Report available [here](https://github.com/impresso/impresso-image-classification/tree/main/rapport_eddahabi_salma).
+
+- [Characters Relationship Evolution](https://github.com/EloDoyard/sentiment-evolution-in-characters-network), MA semester project by **Eloïse Doyard** (Communication Systems). Report available [here (missing link)]().
+
+- [1808 Venice and its real estate owners](https://github.com/dhlab-epfl/sommarioni-data-extraction), BA semester project by **Quentin Esteban** (Communication Systems). Report available [here](https://github.com/dhlab-epfl/sommarioni-data-extraction/tree/main/report).
+
 
 
 ### Fall 2021
