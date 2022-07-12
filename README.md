@@ -18,7 +18,9 @@ See also:
 
 *(ongoing)*
 
-- [Pushing the limits of optical character recognition on complex multilingual documents](https://github.com/AjaxMultiCommentary/ajmc/tree/main/ocr), MA (and respectively BA) semester projects by **Ziqi Zhao** (Computer Science) and **Jérôme Ceccaldi** (Computer Science). 
+- [Pushing the limits of optical character recognition on complex multilingual documents — Post OCR correction](https://github.com/Zotchh/BAProject), BA semester project **Jérôme Ceccaldi** (Computer Science). Report available [here](https://github.com/Zotchh/BAProject/blob/main/report/bachelor_project_report.pdf). 
+
+- [Pushing the limits of optical character recognition on complex multilingual documents — OCR and pre-proprecessing](https://github.com/AjaxMultiCommentary/ajmc/tree/main/ajmc/ocr), MA semester project by **Ziqi Zhao** (Computer Science). Report available [here](https://github.com/AjaxMultiCommentary/ajmc/commits/main/ajmc/ocr). 
 
 - [Historical Newspaper Image Classification](https://github.com/impresso/impresso-image-classification) (branch or folder `pauline'), MA optional semester project by **Pauline Isabel Conti** (Data Science). Report available [here](https://github.com/impresso/impresso-image-classification/blob/pauline/report-conti-pauline/report.pdf).
 
