@@ -30,9 +30,9 @@ See also:
 
 - [1808 Venice and its real estate owners](https://github.com/dhlab-epfl/sommarioni-data-extraction), BA semester project by **Quentin Esteban** (Communication Systems). Report available [here](https://github.com/dhlab-epfl/sommarioni-data-extraction/tree/main/report).
 
-- [Title of Project](Link to GH repo), MA master project by **Florine Reau** (Data Science). Report available [here](Link to PDF).
+- [Toward a conceptual foundation for documenting Parisian Facades](), MA master project by **Florine Reau** (Data Science). Report available [here] / LINK MISSING().
 
-- [Title of Project](Link to GH repo), MA master project by **Ludovica Schaerf** (Digital Humanities). Report available [here](Link to PDF).
+- [Semi-supervised Clustering of Visual Signatures of Artworks](https://github.com/dhlab-epfl/replica-semisupervised), MA master project by **Ludovica Schaerf** (Digital Humanities). Report available [here](https://github.com/dhlab-epfl/replica-semisupervised/blob/master/Schaerf%20-%20Semi-Supervised%20Clustering%20of%20Visual%20Signatures%20of%20Artworks.pdf).
 
 ### Fall 2021
 
