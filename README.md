@@ -30,7 +30,9 @@ See also:
 
 - [1808 Venice and its real estate owners](https://github.com/dhlab-epfl/sommarioni-data-extraction), BA semester project by **Quentin Esteban** (Communication Systems). Report available [here](https://github.com/dhlab-epfl/sommarioni-data-extraction/tree/main/report).
 
+- [Title of Project](Link to GH repo), MA master project by **Florine Reau** (Data Science). Report available [here](Link to PDF).
 
+- [Title of Project](Link to GH repo), MA master project by **Ludovica Schaerf** (Digital Humanities). Report available [here](Link to PDF).
 
 ### Fall 2021
 
@@ -46,6 +48,8 @@ See also:
 
 - [TO COMPLETE](),  PhD semester project by **Beatrice Vaienti** (Digital Humanities). Report available [here MISSING]().
 
+- [Diachronic urban evolution from segmented maps of Jersualem](https://github.com/dhlab-epfl/diachronic-maps-jerusalem),  PhD semester project by **Paul Guhennec** (Digital Humanities). Results available [here](https://github.com/dhlab-epfl/diachronic-maps-jerusalem/tree/master/_movies). Article in preparation.
+
 ### Spring 2021
 
 - [Character's Dictionary](https://github.com/dhlab-epfl-students/characters-dictionary), BA semester project (optional) by **Beatriz Borges** (Communication System). Report available [here](https://github.com/dhlab-epfl-students/characters-dictionary/blob/main/report/main.pdf), also followed by a [paper submission](https://github.com/dhlab-epfl-students/automatic-characters).
@@ -54,12 +58,9 @@ See also:
 
 - [Boosting NER in domain-specific, low-resource settings : the case of Classics / CODE LINK MISSING](), PhD semester project  by **Sven Najem-Meyer** (Digital Humanities). Report available [here MISSING]().
 
-- [Analysing Visual Pattern Propagation in Large Photo Corpora of Paintings/ CODE LINK MISSING](),  PhD semester project by **Paul Guhennec** (Digital Humanities). Report available [here MISSING]().
+- [Analysing Visual Pattern Propagation in Large Photo Corpora of Paintings](https://github.com/dhlab-epfl/replica-analysis),  PhD semester project by **Paul Guhennec** (Digital Humanities). Report available [here](https://github.com/dhlab-epfl/replica-analysis/blob/master/Semestre%20Project%20Cini.pdf).
 
 - [TO COMPLETE](),  PhD semester project by **Didier Dupertuis** (Digital Humanities). Report available [here]().
-
-- [TO COMPLETE](),  PhD semester project by **Paul Guhennec** (Digital Humanities). Report available [here]().
-
 
 ### Fall 2020
 
