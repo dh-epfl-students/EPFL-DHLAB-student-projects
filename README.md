@@ -34,6 +34,8 @@ See also:
 
 - [Semi-supervised Clustering of Visual Signatures of Artworks](https://github.com/dhlab-epfl/replica-semisupervised), MA master project by **Ludovica Schaerf** (Digital Humanities). Report available [here](https://github.com/dhlab-epfl/replica-semisupervised/blob/master/Schaerf%20-%20Semi-Supervised%20Clustering%20of%20Visual%20Signatures%20of%20Artworks.pdf).
 
+- [Searching for visual patterns in a children's drawings collection](https://github.com/dhlab-epfl-students/IMAJ-childrens-drawings), MA master project by **Ravinithesh A** (Digital Humanities). Report available [here](https://nbviewer.org/github/dhlab-epfl-students/IMAJ-childrens-drawings/blob/main/report/Searching_for_visual_patterns_in_childrens_drawings_collection.pdf).
+
 ### Fall 2021
 
 - [Dictionnary of novel characters (continued)](https://github.com/dhlab-epfl-students/character-relation-extraction), MA semester project by **Juliette Meurguet** (Communication Systems). Report available [here MISSING]().   
