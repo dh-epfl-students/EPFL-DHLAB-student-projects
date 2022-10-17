@@ -36,6 +36,8 @@ See also:
 
 - [Searching for visual patterns in a children's drawings collection](https://github.com/dhlab-epfl-students/IMAJ-childrens-drawings), MA master project by **Ravinithesh A** (Digital Humanities). Report available [here](https://nbviewer.org/github/dhlab-epfl-students/IMAJ-childrens-drawings/blob/main/report/Searching_for_visual_patterns_in_childrens_drawings_collection.pdf).
 
+- [A generic method for cartographic realignment using local feature matching](https://github.com/JanMaxime/PDM), MA master project by **Maxime Jan** (Digital Humanities). Report avilable [here](https://github.com/JanMaxime/PDM/blob/master/report/PDM%20report%20Maxime%20Jan.pdf).
+
 ### Fall 2021
 
 - [Dictionnary of novel characters (continued)](https://github.com/dhlab-epfl-students/character-relation-extraction), MA semester project by **Juliette Meurguet** (Communication Systems). Report available [here MISSING]().   
