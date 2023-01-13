@@ -14,9 +14,11 @@ See also:
 - [Title of Project](Link to GH repo), [level: BA/MA] [semester project|master project] by **Name of Student** (Name of Section). Report available [here](Link to PDF).
 ```
 
-### Spring 2022
+### Spring 2023
 
-*(ongoing)*
+### Fall 2022
+
+### Spring 2022
 
 - [Pushing the limits of optical character recognition on complex multilingual documents — Post OCR correction](https://github.com/Zotchh/BAProject), BA semester project **Jérôme Ceccaldi** (Computer Science). Report available [here](https://github.com/Zotchh/BAProject/blob/main/report/bachelor_project_report.pdf). 
 
