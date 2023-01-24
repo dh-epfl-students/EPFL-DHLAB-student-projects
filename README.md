@@ -18,6 +18,9 @@ See also:
 
 ### Fall 2022
 
+- [Automatic Georeferencing of historical cadastres](https://github.com/theo-damiani/dhlab-semester-project), MA semester project by **Théo Damiani** (Computer Science). Report available [here](https://github.com/theo-damiani/dhlab-semester-project/blob/master/report.pdf).
+
+
 ### Spring 2022
 
 - [Pushing the limits of optical character recognition on complex multilingual documents — Post OCR correction](https://github.com/Zotchh/BAProject), BA semester project **Jérôme Ceccaldi** (Computer Science). Report available [here](https://github.com/Zotchh/BAProject/blob/main/report/bachelor_project_report.pdf). 
