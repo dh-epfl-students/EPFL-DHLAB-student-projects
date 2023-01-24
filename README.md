@@ -18,8 +18,9 @@ See also:
 
 ### Fall 2022
 
-- [Automatic Georeferencing of historical cadastres](https://github.com/theo-damiani/dhlab-semester-project), MA semester project by **Théo Damiani** (Computer Science). Report available [here](https://github.com/theo-damiani/dhlab-semester-project/blob/master/report.pdf).
+- [Automatic Georeferencing of Historical Cadastres](https://github.com/theo-damiani/dhlab-semester-project), MA semester project by **Théo Damiani** (Computer Science). Report available [here](https://github.com/theo-damiani/dhlab-semester-project/blob/master/report.pdf).
 
+- [Analyse et Préservation de Gameplay](Link to GH repo), MA semester project by **Kévin Faustini** (Communication Systems). Report available [here](Link to PDF). Main actor
 
 ### Spring 2022
 
