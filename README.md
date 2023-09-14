@@ -16,8 +16,8 @@ See also:
 
 ### Spring 2023
 
-- [Where Did the News come from? Detection of News Agency Releases in Historical Newspapers](https://github.com/impresso/newsagency-classification), MA thesis by **Lea Marxen** (Computer Science). Report available [here](https://infoscience.epfl.ch/record/305129?&ln=en).
-- [Historical Adapter Module based on LLaMA 7B](https://github.com/dhlab-epfl/historical-adapters), PhD semester project by Soyoung Oh (Computer Science). Report available [here](https://github.com/dhlab-epfl/historical-adapters/blob/main/Project_Report.pdf).
+- [Where Did the News come from? Detection of News Agency Releases in Historical Newspapers](https://github.com/impresso/newsagency-classification), MA thesis by **Lea Marxen** (Data Science). Report available [here](https://infoscience.epfl.ch/record/305129?&ln=en).
+- [Historical Adapter Module based on LLaMA 7B](https://github.com/dhlab-epfl/historical-adapters), PhD semester project by Soyoung Oh (Data Science). Report available [here](https://github.com/dhlab-epfl/historical-adapters/blob/main/Project_Report.pdf).
 
 ### Fall 2022
 
