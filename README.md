@@ -17,17 +17,17 @@ See also:
 ### Spring 2023
 
 - [Where Did the News come from? Detection of News Agency Releases in Historical Newspapers](https://github.com/impresso/newsagency-classification), Master project by **Lea Marxen** (Data Science). Report available [here](https://infoscience.epfl.ch/record/305129?&ln=en).
-- [Historical Adapter Module based on LLaMA 7B](https://github.com/dhlab-epfl/historical-adapters), PhD semester project by Soyoung Oh (Data Science). Report available [here](https://github.com/dhlab-epfl/historical-adapters/blob/main/Project_Report.pdf).
+- [Historical Adapter Module based on LLaMA 7B](https://github.com/dhlab-epfl/historical-adapters), PhD semester project by **Soyoung Oh** (Data Science). Report available [here](https://github.com/dhlab-epfl/historical-adapters/blob/main/Project_Report.pdf).
 
 ### Fall 2022
 
 - [Automatic Georeferencing of Historical Cadastres](https://github.com/theo-damiani/dhlab-semester-project), MA semester project by **Théo Damiani** (Computer Science). Report available [here](https://github.com/theo-damiani/dhlab-semester-project/blob/master/report.pdf).
 
-- [Analyse et Préservation de Gameplay](https://MISSING), MA semester project by **Kévin Faustini** (Communication Systems). Report available [here](Link to PDF). Main actor
+- [Analyse et Préservation de Gameplay](Link to repository), MA semester project by **Kévin Faustini** (Communication Systems). Report available [here MISSING]().
 
 ### Spring 2022
 
-- [Pushing the limits of optical character recognition on complex multilingual documents — Post OCR correction](https://github.com/Zotchh/BAProject), BA semester project **Jérôme Ceccaldi** (Computer Science). Report available [here](https://github.com/Zotchh/BAProject/blob/main/report/bachelor_project_report.pdf). 
+- [Pushing the limits of optical character recognition on complex multilingual documents — Post-OCR correction](https://github.com/Zotchh/BAProject), BA semester project by **Jérôme Ceccaldi** (Computer Science). Report available [here](https://github.com/Zotchh/BAProject/blob/main/report/bachelor_project_report.pdf). 
 
 - [Pushing the limits of optical character recognition on complex multilingual documents — OCR and pre-proprecessing](https://github.com/AjaxMultiCommentary/ajmc/tree/main/ajmc/ocr), MA semester project by **Ziqi Zhao** (Computer Science). Report available [here](https://github.com/AjaxMultiCommentary/ajmc/commits/main/ajmc/ocr). 
 
@@ -45,7 +45,7 @@ See also:
 
 - [Searching for visual patterns in a children's drawings collection](https://github.com/dh-epfl-students/IMAJ-childrens-drawings), MA master project by **Ravinithesh A** (Digital Humanities). Report available [here](https://nbviewer.org/github/dh-epfl-students/IMAJ-childrens-drawings/blob/main/report/Searching_for_visual_patterns_in_childrens_drawings_collection.pdf).
 
-- [A generic method for cartographic realignment using local feature matching](https://github.com/JanMaxime/PDM), MA master project by **Maxime Jan** (Digital Humanities). Report avilable [here](https://github.com/JanMaxime/PDM/blob/master/report/PDM%20report%20Maxime%20Jan.pdf).
+- [A generic method for cartographic realignment using local feature matching](https://github.com/JanMaxime/PDM), MA master project by **Maxime Jan** (Digital Humanities). Report available [here](https://github.com/JanMaxime/PDM/blob/master/report/PDM%20report%20Maxime%20Jan.pdf).
 
 ### Fall 2021
 
@@ -53,7 +53,7 @@ See also:
   
 - [Automatic tabular data extraction and classification in large-scale newspaper archives](https://github.com/impresso/impresso-table-processing), Master project by **Arthur Vernet** (Data Science).  Master thesis available [here](https://infoscience.epfl.ch/record/291895).
  
-- [Named Entity Recognition and Linking on the Historical Dictionary of Switzerland](https://github.com/dddpt-epfl-phd/dhs-nerd/), PhD semester project by Didier Dupertuis (Digital Humanities).  Report available [here MISSING]().
+- [Named Entity Recognition and Linking on the Historical Dictionary of Switzerland](https://github.com/dddpt-epfl-phd/dhs-nerd/), PhD semester project by **Didier Dupertuis** (Digital Humanities).  Report available [here MISSING]().
 
 - [Scrapping Youtube and key frame selection](https://github.com/dh-epfl-students/Youtube-scraping-semester-project-sandra-dib), MA semester project by **Sandra Dib** (Communication Systems).
 
@@ -69,7 +69,7 @@ See also:
 
 - [Icono Lausanne – reorientation of the photographic archives of the Historical Museum/ CODE LINK MISSING](),  MA semester project by **Boubacar Camara** (Computer Science). Report available [here MISSING]().
 
-- [Boosting NER in domain-specific, low-resource settings : the case of Classics / CODE LINK MISSING](), PhD semester project  by **Sven Najem-Meyer** (Digital Humanities). Report available [here MISSING]().
+- [Boosting NER in domain-specific, low-resource settings: the case of Classics / CODE LINK MISSING](), PhD semester project  by **Sven Najem-Meyer** (Digital Humanities). Report available [here MISSING]().
 
 - [Analysing Visual Pattern Propagation in Large Photo Corpora of Paintings](https://github.com/dhlab-epfl/replica-analysis),  PhD semester project by **Paul Guhennec** (Digital Humanities). Report available [here](https://github.com/dhlab-epfl/replica-analysis/blob/master/Semestre%20Project%20Cini.pdf).
 
@@ -93,7 +93,7 @@ See also:
 
 - [4DEarth](), MA semester project by **Loic Serafin**. Report available [here MISSING]().
 
-- [TO COMPLETE](), MA semester project by **Valentine Bernasconi** . Report available [here MISSING]().
+- [TO COMPLETE](), MA semester project by **Valentine Bernasconi**. Report available [here MISSING]().
 
 
 
