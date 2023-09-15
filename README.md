@@ -4,7 +4,7 @@ List of BA & MA semester and master projects carried out at the DHLAB with links
    
 See also:
 
-- :wrench: the **technical specifications** in the [README-Student-HowTo.md](https://github.com/dhlab-epfl-students/EPFL-DHLAB-student-projects/blob/main/README-Student-HowTo.md).
+- :wrench: the **technical specifications** in the [README-Student-HowTo.md](https://github.com/dh-epfl-students/EPFL-DHLAB-student-projects/blob/main/README-Student-HowTo.md).
 - :computer: the **student project page** on the DHLAB [website](https://www.epfl.ch/labs/dhlab/index-html/student-projects/).
 
 :warning: **Page under construction, links are being added.** :warning:
@@ -43,21 +43,21 @@ See also:
 
 - [Semi-supervised Clustering of Visual Signatures of Artworks](https://github.com/dhlab-epfl/replica-semisupervised), MA master project by **Ludovica Schaerf** (Digital Humanities). Report available [here](https://github.com/dhlab-epfl/replica-semisupervised/blob/master/Schaerf%20-%20Semi-Supervised%20Clustering%20of%20Visual%20Signatures%20of%20Artworks.pdf).
 
-- [Searching for visual patterns in a children's drawings collection](https://github.com/dhlab-epfl-students/IMAJ-childrens-drawings), MA master project by **Ravinithesh A** (Digital Humanities). Report available [here](https://nbviewer.org/github/dhlab-epfl-students/IMAJ-childrens-drawings/blob/main/report/Searching_for_visual_patterns_in_childrens_drawings_collection.pdf).
+- [Searching for visual patterns in a children's drawings collection](https://github.com/dh-epfl-students/IMAJ-childrens-drawings), MA master project by **Ravinithesh A** (Digital Humanities). Report available [here](https://nbviewer.org/github/dh-epfl-students/IMAJ-childrens-drawings/blob/main/report/Searching_for_visual_patterns_in_childrens_drawings_collection.pdf).
 
 - [A generic method for cartographic realignment using local feature matching](https://github.com/JanMaxime/PDM), MA master project by **Maxime Jan** (Digital Humanities). Report avilable [here](https://github.com/JanMaxime/PDM/blob/master/report/PDM%20report%20Maxime%20Jan.pdf).
 
 ### Fall 2021
 
-- [Dictionnary of novel characters (continued)](https://github.com/dhlab-epfl-students/character-relation-extraction), MA semester project by **Juliette Meurguet** (Communication Systems). Report available [here MISSING]().   
+- [Dictionnary of novel characters (continued)](https://github.com/dh-epfl-students/character-relation-extraction), MA semester project by **Juliette Meurguet** (Communication Systems). Report available [here MISSING]().   
   
 - [Automatic tabular data extraction and classification in large-scale newspaper archives](https://github.com/impresso/impresso-table-processing), Master project by **Arthur Vernet** (Data Science).  Master thesis available [here](https://infoscience.epfl.ch/record/291895).
  
 - [Named Entity Recognition and Linking on the Historical Dictionary of Switzerland](https://github.com/dddpt-epfl-phd/dhs-nerd/), PhD semester project by Didier Dupertuis (Digital Humanities).  Report available [here MISSING]().
 
-- [Scrapping Youtube and key frame selection](https://github.com/dhlab-epfl-students/Youtube-scraping-semester-project-sandra-dib), MA semester project by **Sandra Dib** (Communication Systems).
+- [Scrapping Youtube and key frame selection](https://github.com/dh-epfl-students/Youtube-scraping-semester-project-sandra-dib), MA semester project by **Sandra Dib** (Communication Systems).
 
-- [Automated georegistration of 3D models](https://github.com/dhlab-epfl-students/automatic_geoloc_3Dmodels),  MA semester project by **Alicia Soria Gómez** (Data Science).  Report available [here](https://github.com/dhlab-epfl-students/automatic_geoloc_3Dmodels/blob/main/EPFL_Report_Soria_Alicia_v3.pdf).
+- [Automated georegistration of 3D models](https://github.com/dh-epfl-students/automatic_geoloc_3Dmodels),  MA semester project by **Alicia Soria Gómez** (Data Science).  Report available [here](https://github.com/dh-epfl-students/automatic_geoloc_3Dmodels/blob/main/EPFL_Report_Soria_Alicia_v3.pdf).
 
 - [TO COMPLETE](),  PhD semester project by **Beatrice Vaienti** (Digital Humanities). Report available [here MISSING]().
 
@@ -65,7 +65,7 @@ See also:
 
 ### Spring 2021
 
-- [Character's Dictionary](https://github.com/dhlab-epfl-students/characters-dictionary), BA semester project (optional) by **Beatriz Borges** (Communication System). Report available [here](https://github.com/dhlab-epfl-students/characters-dictionary/blob/main/report/main.pdf), also followed by a [paper submission](https://github.com/dhlab-epfl-students/automatic-characters).
+- [Character's Dictionary](https://github.com/dh-epfl-students/characters-dictionary), BA semester project (optional) by **Beatriz Borges** (Communication System). Report available [here](https://github.com/dh-epfl-students/characters-dictionary/blob/main/report/main.pdf), also followed by a [paper submission](https://github.com/dh-epfl-students/automatic-characters).
 
 - [Icono Lausanne – reorientation of the photographic archives of the Historical Museum/ CODE LINK MISSING](),  MA semester project by **Boubacar Camara** (Computer Science). Report available [here MISSING]().
 
@@ -77,13 +77,13 @@ See also:
 
 ### Fall 2020
 
-- [Exploring a large corpus of historical newspapers through implicit entity networks](https://github.com/dhlab-epfl-students/impresso-LOAD-salomon), MA semester project by **Julien Salomon** (Communication Systems). Report available [here](https://github.com/dhlab-epfl-students/impresso-LOAD-salomon/blob/master/report/ImpressoLOAD%20Report%20Salomon.pdf).
+- [Exploring a large corpus of historical newspapers through implicit entity networks](https://github.com/dh-epfl-students/impresso-LOAD-salomon), MA semester project by **Julien Salomon** (Communication Systems). Report available [here](https://github.com/dh-epfl-students/impresso-LOAD-salomon/blob/master/report/ImpressoLOAD%20Report%20Salomon.pdf).
 - [Information extraction from Geneva botanical garden historical herbarium(s)/ CODE LINK MISSING](), Master project by **Simon Maulini**. Master thesis available [here / MSSING]().
 
 
 ### Spring 2020
 
-- [Exploring a large corpus of historical newspapers through implicit entity networks](https://github.com/dhlab-epfl-students/impresso-LOAD-pumford), MA semester project by **Isabelle Pumford** (Computer Science). Report available [here](https://github.com/dhlab-epfl-students/impresso-LOAD-pumford/blob/master/report/DHLAB_Report.pdf).
+- [Exploring a large corpus of historical newspapers through implicit entity networks](https://github.com/dh-epfl-students/impresso-LOAD-pumford), MA semester project by **Isabelle Pumford** (Computer Science). Report available [here](https://github.com/dh-epfl-students/impresso-LOAD-pumford/blob/master/report/DHLAB_Report.pdf).
 
 - [Project Title](), Master project by **Marion Kramer** (Digital Humanities). Master thesis available [here MISSING]().
 
@@ -98,9 +98,9 @@ See also:
 
 
 ### Fall 2019
-- [Metadata mining of large collections of historical newspapers(https://github.com/dhlab-epfl-students/impresso-metadata-explorer), MA semester project by **Justine Weber** (Data Science). Report available [here](https://github.com/dhlab-epfl-students/impresso-metadata-explorer/blob/master/report/report.pdf).
+- [Metadata mining of large collections of historical newspapers(https://github.com/dh-epfl-students/impresso-metadata-explorer), MA semester project by **Justine Weber** (Data Science). Report available [here](https://github.com/dh-epfl-students/impresso-metadata-explorer/blob/master/report/report.pdf).
 
-- [Improving handwritten text recognition with transfer learning](https://github.com/dhlab-epfl-students/htr-curriculum-semi-supervision), MA semester project by **Karthigan Sinnathamby**. Report available [here](https://github.com/dhlab-epfl-students/htr-curriculum-semi-supervision/blob/master/report/report.pdf).
+- [Improving handwritten text recognition with transfer learning](https://github.com/dh-epfl-students/htr-curriculum-semi-supervision), MA semester project by **Karthigan Sinnathamby**. Report available [here](https://github.com/dh-epfl-students/htr-curriculum-semi-supervision/blob/master/report/report.pdf).
 
 - [Historical newspaper article segmentation and classification using visual and textual features](https://github.com/dhlab-epfl/dhSegment-text-torch), PhD semester project by **Raphael Barman** (Digital Humanities). Journal publication available [here](https://infoscience.epfl.ch/record/282863).
 
@@ -112,11 +112,11 @@ See also:
 
 - [Reconstruction du Louvre en 4D](https://github.com/adescombes/louvre4D), Master project by **Descombes Albane Bénédicte** (Digital Humanities). Master thesis available [here](https://github.com/adescombes/louvre4D/blob/master/thesis_2019-descombes-albane-red.pdf).
 
-- [Historical newspaper image classification](https://github.com/dhlab-epfl-students/impresso-image-classification), MA semester project (optional) by **Edoardo Holzl** and  **Lucas Gauchoux** (Communication Systems). Report available [here](https://github.com/dhlab-epfl-students/impresso-image-classification/blob/master/report/Impresso_Report.pdf).
+- [Historical newspaper image classification](https://github.com/dh-epfl-students/impresso-image-classification), MA semester project (optional) by **Edoardo Holzl** and  **Lucas Gauchoux** (Communication Systems). Report available [here](https://github.com/dh-epfl-students/impresso-image-classification/blob/master/report/Impresso_Report.pdf).
 
-- [Draining YouTube](https://github.com/dhlab-epfl-students/Draining-Youtube), MA semester project by **Rubiato Xabier** (Applied Physics). Report available [here MISSING]().
+- [Draining YouTube](https://github.com/dh-epfl-students/Draining-Youtube), MA semester project by **Rubiato Xabier** (Applied Physics). Report available [here MISSING]().
 
-- [Metadata mining of large collections of historical newspapers](https://github.com/dhlab-epfl-students/impresso-frequency-analyzer), XXX project by **Christian Gassner** (Section). Report available [here](https://github.com/dhlab-epfl-students/impresso-frequency-analyzer/blob/master/report/final_report.pdf).
+- [Metadata mining of large collections of historical newspapers](https://github.com/dh-epfl-students/impresso-frequency-analyzer), XXX project by **Christian Gassner** (Section). Report available [here](https://github.com/dh-epfl-students/impresso-frequency-analyzer/blob/master/report/final_report.pdf).
 
 - [Numérisation de masse : vers la création d’un nouvel acteur de l’information - Le Projet Time Machine](), Internship project by **Camille Besse** (Ecole Nationale des Chartes, Paris, France). Report available [here MISSING]().
 
