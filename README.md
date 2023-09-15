@@ -16,14 +16,14 @@ See also:
 
 ### Spring 2023
 
-- [Where Did the News come from? Detection of News Agency Releases in Historical Newspapers](https://github.com/impresso/newsagency-classification), MA thesis by **Lea Marxen** (Data Science). Report available [here](https://infoscience.epfl.ch/record/305129?&ln=en).
+- [Where Did the News come from? Detection of News Agency Releases in Historical Newspapers](https://github.com/impresso/newsagency-classification), Master project by **Lea Marxen** (Data Science). Report available [here](https://infoscience.epfl.ch/record/305129?&ln=en).
 - [Historical Adapter Module based on LLaMA 7B](https://github.com/dhlab-epfl/historical-adapters), PhD semester project by Soyoung Oh (Data Science). Report available [here](https://github.com/dhlab-epfl/historical-adapters/blob/main/Project_Report.pdf).
 
 ### Fall 2022
 
 - [Automatic Georeferencing of Historical Cadastres](https://github.com/theo-damiani/dhlab-semester-project), MA semester project by **Théo Damiani** (Computer Science). Report available [here](https://github.com/theo-damiani/dhlab-semester-project/blob/master/report.pdf).
 
-- [Analyse et Préservation de Gameplay](Link to GH repo), MA semester project by **Kévin Faustini** (Communication Systems). Report available [here](Link to PDF). Main actor
+- [Analyse et Préservation de Gameplay](https://MISSING), MA semester project by **Kévin Faustini** (Communication Systems). Report available [here](Link to PDF). Main actor
 
 ### Spring 2022
 
