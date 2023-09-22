@@ -160,10 +160,10 @@ See also:
 
 
 ### Fall 2016
-- [ OCR Correction of *Le Temps*, Master project by **Laurent Valette** (Computer Science). Master thesis not available.
+- OCR Correction of *Le Temps*, Master project by **Laurent Valette** (Computer Science). Master thesis not available.
 
 
 ### Spring 2016 
 
-- [ Correcting the Optical Character Recognition of Swiss daily newspaper *Le Temps*, MA semester project by **Arnaud Miribel** (Communication Systems). Report available [here MISSING]().
+- Correcting the Optical Character Recognition of Swiss daily newspaper *Le Temps*, MA semester project by **Arnaud Miribel** (Communication Systems). Report available [here MISSING]().
 
