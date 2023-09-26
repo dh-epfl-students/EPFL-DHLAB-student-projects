@@ -14,6 +14,11 @@ See also:
 - [Title of Project](Link to GH repo), [level: BA/MA] [semester project|master project] by **Name of Student** (Name of Section). Report available [here](Link to PDF).
 ```
 
+### Fall 2023
+
+- ...
+
+
 ### Spring 2023
 
 - [Where Did the News come from? Detection of News Agency Releases in Historical Newspapers](https://github.com/impresso/newsagency-classification), Master project by **Lea Marxen** (Data Science). Report available [here](https://infoscience.epfl.ch/record/305129?&ln=en).
