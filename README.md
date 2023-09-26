@@ -21,6 +21,7 @@ See also:
 
 ### Spring 2023
 
+- [Standardising ownership information from the Napoleonic Cadastre of 1808 Venice](https://github.com/dhlab-epfl/cadaster-interface/tree/cmusso-people-cadaster-sommarioni), Semester project by **Carlo Musso** (Computer Science). Report available [here]([https://infoscience.epfl.ch/record/305129?&ln=en](https://github.com/dhlab-epfl/cadaster-interface/blob/master/report/2023_Carlo_musso_Standardising_ownership_information_from_the_Napoleonic_Cadastre_of_1808_Venice__methods_and_findings_in_the_first_database_creation.pdf).
 - [Where Did the News come from? Detection of News Agency Releases in Historical Newspapers](https://github.com/impresso/newsagency-classification), Master project by **Lea Marxen** (Data Science). Report available [here](https://infoscience.epfl.ch/record/305129?&ln=en).
 - [Historical Adapter Module based on LLaMA 7B](https://github.com/dhlab-epfl/historical-adapters), PhD semester project by **Soyoung Oh** (Data Science). Report available [here](https://github.com/dhlab-epfl/historical-adapters/blob/main/Project_Report.pdf).
 - [A digital catalogue of Jerusalem’s Ayyubid and Mamluk architectures](https://github.com/YoussefMamlouk/digital_catalogue), MA semester project by **Youssef Mamlouk** (SysCom DataScience). Report available [here](https://github.com/YoussefMamlouk/digital_catalogue/tree/main/report).
