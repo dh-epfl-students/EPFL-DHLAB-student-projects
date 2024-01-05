@@ -16,7 +16,10 @@ See also:
 
 ### Fall 2023
 
-- ...
+- [CatastroBERT: Extreme Weather Event detection based on the _Gazette de Lausanne_ dataset](https://github.com/dh-epfl-students/dhlab-CatastroBERT), BA semester project by **Nkok Lucas René Charles** (Systèmes de communication). Report available [here](https://github.com/dh-epfl-students/dhlab-CatastroBERT).
+- [Exploring Large Vision-Language Pre-trained Models for Historical Images Classification and Captioning](https://github.com/dh-epfl-students/dhlab-image-captioning), BA semester project by **Ines Bouchama** (Systèmes de communication). Report available [here](https://github.com/dh-epfl-students/dhlab-image-captioning/blob/main/BA%20-%20Exploring%20Large%20Vision-Language%20Pre-trained%20Models%20for%20Historical%20Images%20Classification%20and%20Captioning%20-%20Fall%202023/BA%20-%20Exploring%20Large%20Vision-Language%20Pre-trained%20Models%20for%20Historical%20Images%20Classification%20and%20Captioning%20-%20Fall%202023.pdf).
+- [Étude des Glaciers et Apparition d’une Considération Écologique dans les Journaux Historiques Suisses](https://github.com/dh-epfl-students/dhlab-climate-change-glaciers), BA semester project by **Dupraz Valentin Simon Sylvain** (Systèmes de communication). Report available [here](https://github.com/dh-epfl-students/dhlab-climate-change-glaciers).
+
 
 
 ### Spring 2023
