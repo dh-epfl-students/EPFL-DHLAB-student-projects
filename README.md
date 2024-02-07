@@ -14,6 +14,14 @@ See also:
 - [Title of Project](Link to GH repo), [level: BA/MA] [semester project|master project] by **Name of Student** (Name of Section). Report available [here](Link to PDF).
 ```
 
+### Spring 2024
+
+- [Ethical Guidance of LLMs with RL from AI Feedback and an Ensemble of Preference Models](), MA optional project by **Arvind Satish Menon** (MA SC). Report available [here]().
+- [Ethical Guidance of LLMs with RL from AI Feedback and an Ensemble of Preference Models](), MA semester optional by **Haolong Li** (MA-MA3). Report available [here]().
+- [Ethical Guidance of LLMs with RL from AI Feedback and an Ensemble of Preference Models](), BA semester project by **Srushti Singh** (BA SC). Report available [here]().
+- [Ukraine's Epigraphy and Cultural Heritage Data Analysis](), MA optional project by **Yuheng Lu** (MA EEE). Report available [here]().
+- [Your Personalized AI Interior Designer](), MA project by **Yuxiao Li** (MA DH). Report available [here]().
+
 ### Fall 2023
 
 - [CatastroBERT: Extreme Weather Event detection based on the _Gazette de Lausanne_ dataset](https://github.com/dh-epfl-students/dhlab-CatastroBERT), BA semester project by **Nkok Lucas René Charles** (Communication Systems). Report available [here](https://github.com/dh-epfl-students/dhlab-CatastroBERT).
