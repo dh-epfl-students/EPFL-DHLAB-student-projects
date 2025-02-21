@@ -7,12 +7,17 @@ See also:
 - :wrench: the **technical specifications** in the [README-Student-HowTo.md](https://github.com/dh-epfl-students/EPFL-DHLAB-student-projects/blob/main/README-Student-HowTo.md).
 - :computer: the **student project page** on the DHLAB [website](https://www.epfl.ch/labs/dhlab/index-html/student-projects/).
 
-:warning: **Page under construction, links are being added.** :warning:
-
 **Template**
 ```
 - [Title of Project](Link to GH repo), [level: BA/MA] [semester project|master project] by **Name of Student** (Name of Section). Report available [here](Link to PDF).
 ```
+### Spring 2025
+
+[TODO]
+
+### Fall 2024
+
+[TODO]
 
 ### Spring 2024
 
