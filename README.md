@@ -9,8 +9,16 @@ See also:
 
 **Template**
 ```
-- [Title of Project](Link to GH repo), [level: BA/MA] [semester project|master project] by **Name of Student** (Name of Section). Report available [here](Link to PDF).
+- For BA and MA semester projects:
+`[Project Title](add link to code repository), BA/MA semester project by **NAME** (Section). Report available [here](add link to report).`
+
+- For PhD semester projects:
+`[Project Title](add link to code repository), PhD semester project by **NAME** (Section). Report available [here](add link to report).`
+
+- For Master thesis
+`[Project Title](link to code repository), Master project by **NAME** (Section). Master thesis available [here](add link to report).
 ```
+
 ### Spring 2025
 
 - [AI and Knowledge Graphs for Invoice Verification](TBC), Master project (PDM) by **Luca Simon Engel** (IN-MA2). Report available [here](Link to PDF).
