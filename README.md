@@ -13,17 +13,17 @@ See also:
 ```
 ### Spring 2025
 
-- [AI and Knowledge Graphs for Invoice Verification](TBC), Master project (PDM) by **Luca Simon Engel** (IN-MA2).  
-- [Quantifying Normative Ethics and Value Formation](TBC), MA optional research project by **Weilun Xu** (DH-MA1).  
-- [Exploration on Foundation Model for Spatial Intelligence](TBC), Master project (PDM) by **Linying Yao** (DH-MA3).  
-- [Creation of Morphological Search Engine](TBC), MA research project by **Haotian Fang** (DH-MA1).  
-- [Calculation of 3D Isovists](TBC), BA research project by **Nika Horvat** (SC-BA5).  
-- [Topology of the Venetian Cadastre](TBC), BA research project by **Adam Mellouk** (SC-BA5).  
-- [Segmentation of Architectural Footprints](TBC), BA research project by **Jaeyi Jeong** (SC-BA5).  
-- [Musical Versions Identification from Lyrics Representations](TBC), Master project (PDM) by **Joanne Rachelle Julie Lan Affolter** (SC-MA3).  
-- [Identification and Classification of Maps in Historical Newspapers](TBC), MA research project by **Robin Patriarca** (SC-MA3).  
-- [Algorithm Development and Hardware R&D for Diamond Traceability](TBC), Master project (PDM) by **Mengjie Zou** (DH-MA3).  
-- [Tracking the Weaponisation and Manipulation of Cultural Heritage in Ukraine and Russia](https://github.com/dh-epfl-students/dhlab-cultural-weaponisation), MA research project by **Mohamed Hédi Hidri** (SC-MA3).  
+- [AI and Knowledge Graphs for Invoice Verification](TBC), Master project (PDM) by **Luca Simon Engel** (IN-MA2). Report available [here](Link to PDF).
+- [Quantifying Normative Ethics and Value Formation](TBC), MA optional research project by **Weilun Xu** (DH-MA1). Report available [here](Link to PDF).
+- [Exploration on Foundation Model for Spatial Intelligence](TBC), Master project (PDM) by **Linying Yao** (DH-MA3). Report available [here](Link to PDF).
+- [Creation of Morphological Search Engine](TBC), MA research project by **Haotian Fang** (DH-MA1). Report available [here](Link to PDF).
+- [Calculation of 3D Isovists](TBC), BA research project by **Nika Horvat** (SC-BA5). Report available [here](Link to PDF).
+- [Topology of the Venetian Cadastre](TBC), BA research project by **Adam Mellouk** (SC-BA5). Report available [here](Link to PDF).
+- [Segmentation of Architectural Footprints](TBC), BA research project by **Jaeyi Jeong** (SC-BA5). Report available [here](Link to PDF).
+- [Musical Versions Identification from Lyrics Representations](TBC), Master project (PDM) by **Joanne Rachelle Julie Lan Affolter** (SC-MA3). Report available [here](Link to PDF).
+- [Identification and Classification of Maps in Historical Newspapers](TBC), MA research project by **Robin Patriarca** (SC-MA3). Report available [here](Link to PDF).
+- [Algorithm Development and Hardware R&D for Diamond Traceability](TBC), Master project (PDM) by **Mengjie Zou** (DH-MA3). Report available [here](Link to PDF).
+- [Tracking the Weaponisation and Manipulation of Cultural Heritage in Ukraine and Russia](https://github.com/dh-epfl-students/dhlab-cultural-weaponisation), MA research project by **Mohamed Hédi Hidri** (SC-MA3). Report available [here](Link to PDF).
 
 ### Fall 2024
 
