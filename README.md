@@ -29,11 +29,11 @@ See also:
 
 ### Spring 2024
 
-- [Ethical Guidance of LLMs with RL from AI Feedback and an Ensemble of Preference Models](), MA optional project by **Arvind Satish Menon** (MA SC). Report available [here]().
-- [Ethical Guidance of LLMs with RL from AI Feedback and an Ensemble of Preference Models](), MA semester optional by **Haolong Li** (MA-MA3). Report available [here]().
-- [Ethical Guidance of LLMs with RL from AI Feedback and an Ensemble of Preference Models](), BA semester project by **Srushti Singh** (BA SC). Report available [here]().
+- Ethical Guidance of LLMs with RL from AI Feedback and an Ensemble of Preference Models, MA optional project by **Arvind Satish Menon** (MA SC).
+- Ethical Guidance of LLMs with RL from AI Feedback and an Ensemble of Preference Models, MA semester optional by **Haolong Li** (MA-MA3).
+- Ethical Guidance of LLMs with RL from AI Feedback and an Ensemble of Preference Models, BA semester project by **Srushti Singh** (BA SC).
 - [Ukraine's Epigraphy and Cultural Heritage Data Analysis](https://github.com/dh-epfl-students/dhlab-ukraine-epigraphy), MA optional project by **Yuheng Lu** (MA EEE). Report available [here](https://github.com/dh-epfl-students/dhlab-ukraine-epigraphy/blob/main/report/Ukraine_Epigraphy_and_cultural_heritage.pdf).
-- [Your Personalized AI Interior Designer](), MA project by **Yuxiao Li** (MA DH). Report available [here]().
+- [Your Personalized AI Interior Designer](), MA project by **Yuxiao Li** (MA DH).
 
 ### Fall 2023
 
