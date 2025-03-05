@@ -17,7 +17,15 @@ See also:
 
 ### Fall 2024
 
-[TODO]
+- [Historical LLM](https://github.com/dh-epfl-students/dhlab-historical-llm), MA research project by **Nino Fredy Nicolas François Gerber** (SC-MA2). Report available [here](https://github.com/dh-epfl-students/dhlab-historical-llm/tree/main/report).
+- Knowledge Novelty in LLM, MA research project by **Luca Simon Engel** (IN-MA2).  
+- Automated Urban Discoveries, MA research project by **Lucas René Charles Nkok** (IN-MA2).  
+- [Exploring Large Vision-Language Models for Historical Newspaper Segmentation](https://github.com/impresso/newspaper-segmentation), Master project (PDM) by **Danae Papadopoulos** (SC-MA4).  
+- [Data Visualization Dashboard for Monitoring and Quality Control of Large-Scale Data Processing](https://github.com/impresso/impresso-dashboard), MA research project by **Eloi Garandel** (SC-MA3).  
+- [Mapping Newspapers: Creation of a Database of Swiss Historical Newspapers Based on Blaser's Bibliography](https://github.com/impresso/impresso-blaser), MA research project by **Adrian Schemel** (IN-MA3).  
+- The Manhattan Project Interactive Game, Master project (PDM) by **Junzhe Tang** (DH-PME).  
+- Comprehensive Knowledge Management with Integration of LLM and Graph RAG, Master project (PDM) by **Weier Liu** (DH-MA4).  
+- [Analysing Layout Elements of Historical Maps](https://github.com/dh-epfl-students/historical-map), BA research project by **Jiaxun Liu** (IN-H).  
 
 ### Spring 2024
 
