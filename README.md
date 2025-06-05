@@ -27,7 +27,7 @@ See also:
 - [Creation of Morphological Search Engine](TBC), MA research project by **Haotian Fang** (DH-MA1). Report available [here](Link to PDF).
 - [Calculation of 3D Isovists](TBC), BA research project by **Nika Horvat** (SC-BA5). Report available [here](Link to PDF).
 - [Topology of the Venetian Cadastre](TBC), BA research project by **Adam Mellouk** (SC-BA5). Report available [here](Link to PDF).
-- [Segmentation of Architectural Footprints](https://github.com/jeongJ2004/typological-analysis-of-venetian-floor-plans-through-cv), BA research project by **Jaeyi Jeong** (SC-BA5). Report available [here]((https://github.com/jeongJ2004/typological-analysis-of-venetian-floor-plans-through-cv/tree/main/report)).
+- [Segmentation of Architectural Footprints](https://github.com/jeongJ2004/typological-analysis-of-venetian-floor-plans-through-cv), BA research project by **Jaeyi Jeong** (SC-BA5). Report available [here](https://github.com/jeongJ2004/typological-analysis-of-venetian-floor-plans-through-cv/tree/main/report).
 - [Musical Versions Identification from Lyrics Representations](TBC), Master project (PDM) by **Joanne Rachelle Julie Lan Affolter** (SC-MA3). Report available [here](Link to PDF).
 - [Identification and Classification of Maps in Historical Newspapers](TBC), MA research project by **Robin Patriarca** (SC-MA3). Report available [here](Link to PDF).
 - [Algorithm Development and Hardware R&D for Diamond Traceability](TBC), Master project (PDM) by **Mengjie Zou** (DH-MA3). Report available [here](Link to PDF).
