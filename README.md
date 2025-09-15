@@ -31,7 +31,7 @@ See also:
 - [Musical Versions Identification from Lyrics Representations](TBC), Master project (PDM) by **Joanne Rachelle Julie Lan Affolter** (SC-MA3). Report available [here](Link to PDF).
 - [Identification and Classification of Maps in Historical Newspapers](TBC), MA research project by **Robin Patriarca** (SC-MA3). Report available [here](Link to PDF).
 - [Algorithm Development and Hardware R&D for Diamond Traceability](TBC), Master project (PDM) by **Mengjie Zou** (DH-MA3). Report available [here](Link to PDF).
-- [Tracking the Weaponisation and Manipulation of Cultural Heritage in Ukraine and Russia](https://github.com/dh-epfl-students/dhlab-cultural-weaponisation), MA research project by **Mohamed Hédi Hidri** (SC-MA3). Report available [here]([Link to PDF](https://github.com/dh-epfl-students/dhlab-cultural-weaponisation/blob/main/Report_Hedi_Ukraine.pdf)).
+- [Tracking the Weaponisation and Manipulation of Cultural Heritage in Ukraine and Russia](https://github.com/dh-epfl-students/dhlab-cultural-weaponisation), MA research project by **Mohamed Hédi Hidri** (SC-MA3). Report available [here](https://github.com/dh-epfl-students/dhlab-cultural-weaponisation/blob/main/Report_Hedi_Ukraine.pdf).
 
 ### Fall 2024
 
