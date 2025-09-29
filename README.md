@@ -20,17 +20,17 @@ See also:
 ```
 ### Fall 2025
 
-- [Armenian Epigraphy and Cultural Heritage Data Analysis](TBC), MA research project by **Kamal Nour** (SC-MA4). Report available [here](TBC).  
-- [AutoEpiDoc: Automated Extraction and Encoding of Armenian Inscriptions into EpiDoc TEI/XML](TBC), MA research project by **Emile Cornamusaz** (IN-MA2). Report available [here](TBC).  
-- [Tracking the Weaponization and Manipulation of Cultural Heritage in Armenia](TBC), MA research project by **Kaile Chu** (DH-MA2). Report available [here](TBC).  
-- [VLM Finetuning for Accurate Features from Images of Degraded Point Clouds](TBC), MA research project by **Yasmine Kroknes-Gomez** (DH-MA2). Report available [here](TBC).  
-- [Biology of a VLM: Transcoder Training for Multimodal Interpretability](TBC), MA research project by **Clay Cassius Parker Foye** (DH-MA2). Report available [here](TBC).  
-- [Projecting Representations of Beauty](TBC), MA research project by **Vittoria Meroni** (DH-MA2). Report available [here](TBC).  
-- [Projecting Representations of Beauty](TBC), MA research project by **Sophia Kovalenko** (SC-MA2). Report available [here](TBC).  
-- [Detection, Linking, and Georeferencing of Place Names in Historical Newspapers](TBC), Master project (PDM) by **Lea Helene Margot Bliniere** (MT-PME). Master thesis available [here](TBC).  
-- [What's in those millions of images?](TBC), MA research project by **Lina Sadgal** (SC-MA2). Report available [here](TBC).  
-- [Graph-RAG and Multimodal Context Engineering for Historical Question Answering](TBC), Master project (PDM) by **Jingbang Liu** (DH-MA4). Master thesis available [here](TBC).  
-- [Large Language Models and Retrieval-Augmented Generation Applications in the HR Domain](TBC), Master project (PDM) by **Xi Lei** (DH-MA4). Master thesis available [here](TBC).  
+- [Armenian Epigraphy and Cultural Heritage Data Analysis](TBC), MA research project by **Kamal Nour** (SC-MA4). Report available [here](Link to PDF).  
+- [AutoEpiDoc: Automated Extraction and Encoding of Armenian Inscriptions into EpiDoc TEI/XML](TBC), MA research project by **Emile Cornamusaz** (IN-MA2). Report available [here](Link to PDF).  
+- [Tracking the Weaponization and Manipulation of Cultural Heritage in Armenia](TBC), MA research project by **Kaile Chu** (DH-MA2). Report available [here](Link to PDF).  
+- [VLM Finetuning for Accurate Features from Images of Degraded Point Clouds](TBC), MA research project by **Yasmine Kroknes-Gomez** (DH-MA2). Report available [here](Link to PDF).  
+- [Biology of a VLM: Transcoder Training for Multimodal Interpretability](TBC), MA research project by **Clay Cassius Parker Foye** (DH-MA2). Report available [here](Link to PDF).  
+- [Projecting Representations of Beauty](TBC), MA research project by **Vittoria Meroni** (DH-MA2). Report available [here](Link to PDF).  
+- [Projecting Representations of Beauty](TBC), MA research project by **Sophia Kovalenko** (SC-MA2). Report available [here](Link to PDF).  
+- [Detection, Linking, and Georeferencing of Place Names in Historical Newspapers](TBC), Master project (PDM) by **Lea Helene Margot Bliniere** (MT-PME). Master thesis available [here](Link to PDF).  
+- [What's in those millions of images?](TBC), MA research project by **Lina Sadgal** (SC-MA2). Report available [here](Link to PDF).  
+- [Graph-RAG and Multimodal Context Engineering for Historical Question Answering](TBC), Master project (PDM) by **Jingbang Liu** (DH-MA4). Master thesis available [here](Link to PDF).  
+- [Large Language Models and Retrieval-Augmented Generation Applications in the HR Domain](TBC), Master project (PDM) by **Xi Lei** (DH-MA4). Master thesis available [here](Link to PDF).  
 
 ### Spring 2025
 
