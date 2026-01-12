@@ -20,9 +20,13 @@ See also:
 ```
 ### Fall 2025
 
-- [Armenian Epigraphy and Cultural Heritage Data Analysis](TBC), MA research project by **Kamal Nour** (SC-MA4). Report available [here](Link to PDF).  
-- [AutoEpiDoc: Automated Extraction and Encoding of Armenian Inscriptions into EpiDoc TEI/XML](TBC), MA research project by **Emile Cornamusaz** (IN-MA2). Report available [here](Link to PDF).  
-- [Tracking the Weaponization and Manipulation of Cultural Heritage in Armenia](TBC), MA research project by **Kaile Chu** (DH-MA2). Report available [here](Link to PDF).  
+- [Armenian Epigraphy and Cultural Heritage Data Analysis](https://github.com/dhlab-epfl/dhlab-epigraphy-studies), MA research project by **Kamal Nour** (SC-MA4). Report available [here](https://github.com/dhlab-epfl/dhlab-epigraphy-studies/blob/main/DHLAB%20Semester%20project%20report-Kamal-NOUR-report.pdf).  
+- [AutoEpiDoc: Automated Extraction and Encoding of Armenian Inscriptions into EpiDoc TEI/XML](https://github.com/dhlab-epfl/autoepidoc/), MA research project by **Emile Cornamusaz** (IN-MA2). Report available [here](https://github.com/dhlab-epfl/autoepidoc/blob/main/AutoEpiDoc_Emile_Cornamusaz_Report.pdf).  
+- [Tracking the Weaponization and Manipulation of Cultural Heritage in Armenia](https://github.com/dh-epfl-students/dhlab-cultural-weaponisation-armenia), MA research project by **Kaile Chu** (DH-MA2). Report available [here](https://github.com/dh-epfl-students/dhlab-cultural-weaponisation-armenia/blob/main/Kaile_Chu_Semester_Project_Report.pdf).
+- [Tracking the Weaponization and Manipulation of Cultural Heritage in the Russo-Ukraininian Context](https://github.com/dh-epfl-students/dhlab-cultural-weaponisation-ukraine-benchmark), MA research project by **Maxime Garambois** (NX-MA1). Report available [here](https://github.com/dh-epfl-students/dhlab-cultural-weaponisation-ukraine-benchmark/blob/main/Tracking_Wikipedia_Weaponisation_and_Culture_Heritage_Manipulation_in_the_Russo_Ukrainian_context-report.pdf).
+
+
+
 - [VLM Finetuning for Accurate Features from Images of Degraded Point Clouds](TBC), MA research project by **Yasmine Kroknes-Gomez** (DH-MA2). Report available [here](Link to PDF).  
 - [Biology of a VLM: Transcoder Training for Multimodal Interpretability](TBC), MA research project by **Clay Cassius Parker Foye** (DH-MA2). Report available [here](Link to PDF).  
 - [Projecting Representations of Beauty](TBC), MA research project by **Vittoria Meroni** (DH-MA2). Report available [here](Link to PDF).  
