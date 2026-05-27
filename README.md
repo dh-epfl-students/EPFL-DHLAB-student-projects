@@ -9,16 +9,34 @@ See also:
 
 **Template**
 ```
-- For BA and MA semester projects:
-`[Project Title](add link to code repository), BA/MA semester project by **NAME** (Section). Report available [here](add link to report).`
+- For BA and MA research projects:
+[Project Title](add link to code repository), BA/MA semester project by **NAME** (Section). Report available [here](add link to report).
 
-- For PhD semester projects:
-`[Project Title](add link to code repository), PhD semester project by **NAME** (Section). Report available [here](add link to report).`
+- For PhD research projects:
+[Project Title](add link to code repository), PhD semester project by **NAME** (Section). Report available [here](add link to report).
 
-- For Master thesis
-`[Project Title](link to code repository), Master project by **NAME** (Section). Master thesis available [here](add link to report).
+- For Master thesis:
+[Project Title](link to code repository), Master project by **NAME** (Section). Master thesis available [here](add link to report).
 ```
-### Fall 2025
+
+---
+
+## Semesters
+
+|                                  | | | | | |
+|----------------------------------|---|---|---|---|---|
+| [Spring 2026](#spring-2026) (17) | [Fall 2025](#fall-2025) (12) | [Spring 2025](#spring-2025) (11) | [Fall 2024](#fall-2024) (9) | [Spring 2024](#spring-2024) (5) | [Fall 2023](#fall-2023) (3) |
+| [Spring 2023](#spring-2023) (5)  | [Fall 2022](#fall-2022) (2) | [Spring 2022](#spring-2022) (10) | [Fall 2021](#fall-2021) (7) | [Spring 2021](#spring-2021) (5) | [Fall 2020](#fall-2020) (2) |
+| [Spring 2020](#spring-2020) (6)  | [Fall 2019](#fall-2019) (3) | [Spring 2019](#spring-2019) (7) | [Fall 2018](#fall-2018) (0) | [Spring 2018](#spring-2018) (2) | [Fall 2017](#fall-2017) (3) |
+| [Spring 2017](#spring-2017) (7)  | [Fall 2016](#fall-2016) (1) | [Spring 2016](#spring-2016) (1) | | | |
+
+---
+
+### Spring 2026 — 17 projects
+
+_Projects to be added._
+
+### Fall 2025 — 12 projects
 
 - [Armenian Epigraphy and Cultural Heritage Data Analysis](https://github.com/dhlab-epfl/dhlab-epigraphy-studies), MA research project by **Kamal Nour** (SC-MA4). Report available [here](https://github.com/dhlab-epfl/dhlab-epigraphy-studies/blob/main/DHLAB%20Semester%20project%20report-Kamal-NOUR-report.pdf).  
 - [AutoEpiDoc: Automated Extraction and Encoding of Armenian Inscriptions into EpiDoc TEI/XML](https://github.com/dhlab-epfl/autoepidoc/), MA research project by **Emile Cornamusaz** (IN-MA2). Report available [here](https://github.com/dhlab-epfl/autoepidoc/blob/main/AutoEpiDoc_Emile_Cornamusaz_Report.pdf).  
@@ -33,7 +51,7 @@ See also:
 - [Graph-RAG and Multimodal Context Engineering for Historical Question Answering](TBC), Master project (PDM) by **Jingbang Liu** (DH-MA4). Master thesis available [here](Link to PDF).  
 - [Large Language Models and Retrieval-Augmented Generation Applications in the HR Domain](TBC), Master project (PDM) by **Xi Lei** (DH-MA4). Master thesis available [here](Link to PDF).  
 
-### Spring 2025
+### Spring 2025 — 11 projects
 
 - [AI and Knowledge Graphs for Invoice Verification](TBC), Master project (PDM) by **Luca Simon Engel** (IN-MA2). Report available [here](Link to PDF).
 - [Quantifying Normative Ethics and Value Formation](TBC), MA optional research project by **Weilun Xu** (DH-MA1). Report available [here](Link to PDF).
@@ -47,7 +65,7 @@ See also:
 - [Algorithm Development and Hardware R&D for Diamond Traceability](TBC), Master project (PDM) by **Mengjie Zou** (DH-MA3). Report available [here](Link to PDF).
 - [Tracking the Weaponisation and Manipulation of Cultural Heritage in Ukraine and Russia](https://github.com/dh-epfl-students/dhlab-cultural-weaponisation), MA research project by **Mohamed Hédi Hidri** (SC-MA3). Report available [here](https://github.com/dh-epfl-students/dhlab-cultural-weaponisation/blob/main/Report_Hedi_Ukraine.pdf).
 
-### Fall 2024
+### Fall 2024 — 9 projects
 
 - [Historical LLM](https://github.com/dh-epfl-students/dhlab-historical-llm), MA research project by **Nino Fredy Nicolas François Gerber** (SC-MA2). Report available [here](https://github.com/dh-epfl-students/dhlab-historical-llm/tree/main/report).
 - Knowledge Novelty in LLM, MA research project by **Luca Simon Engel** (IN-MA2).  
@@ -59,7 +77,7 @@ See also:
 - Comprehensive Knowledge Management with Integration of LLM and Graph RAG, Master project (PDM) by **Weier Liu** (DH-MA4).  
 - [Analysing Layout Elements of Historical Maps](https://github.com/dh-epfl-students/historical-map), BA research project by **Jiaxun Liu** (IN-H).  
 
-### Spring 2024
+### Spring 2024 — 5 projects
 
 - Ethical Guidance of LLMs with RL from AI Feedback and an Ensemble of Preference Models, MA optional project by **Arvind Satish Menon** (MA SC).
 - Ethical Guidance of LLMs with RL from AI Feedback and an Ensemble of Preference Models, MA semester optional by **Haolong Li** (MA-MA3).
@@ -67,7 +85,7 @@ See also:
 - [Ukraine's Epigraphy and Cultural Heritage Data Analysis](https://github.com/dh-epfl-students/dhlab-ukraine-epigraphy), MA optional project by **Yuheng Lu** (MA EEE). Report available [here](https://github.com/dh-epfl-students/dhlab-ukraine-epigraphy/blob/main/report/Ukraine_Epigraphy_and_cultural_heritage.pdf).
 - [Your Personalized AI Interior Designer](), MA project by **Yuxiao Li** (MA DH).
 
-### Fall 2023
+### Fall 2023 — 3 projects
 
 - [CatastroBERT: Extreme Weather Event detection based on the _Gazette de Lausanne_ dataset](https://github.com/dh-epfl-students/dhlab-CatastroBERT), BA semester project by **Nkok Lucas René Charles** (Communication Systems). Report available [here](https://github.com/dh-epfl-students/dhlab-CatastroBERT).
 - [Exploring Large Vision-Language Pre-trained Models for Historical Images Classification and Captioning](https://github.com/dh-epfl-students/dhlab-image-captioning), BA semester project by **Ines Bouchama** (Communication Systems). Report available [here](https://github.com/dh-epfl-students/dhlab-image-captioning/blob/main/BA%20-%20Exploring%20Large%20Vision-Language%20Pre-trained%20Models%20for%20Historical%20Images%20Classification%20and%20Captioning%20-%20Fall%202023/BA%20-%20Exploring%20Large%20Vision-Language%20Pre-trained%20Models%20for%20Historical%20Images%20Classification%20and%20Captioning%20-%20Fall%202023.pdf).
@@ -75,7 +93,7 @@ See also:
 
 
 
-### Spring 2023
+### Spring 2023 — 5 projects
 
 - [Standardising ownership information from the Napoleonic Cadastre of 1808 Venice](https://github.com/dhlab-epfl/cadaster-interface/), MA semester project by **Carlo Maria Musso** (Computer Science). Report available [here](https://github.com/dhlab-epfl/cadaster-interface/blob/master/report/2023_Carlo_musso_Standardising_ownership_information_from_the_Napoleonic_Cadastre_of_1808_Venice__methods_and_findings_in_the_first_database_creation.pdf).
 - [Where Did the News come from? Detection of News Agency Releases in Historical Newspapers](https://github.com/impresso/newsagency-classification), Master project by **Lea Marxen** (Data Science). Report available [here](https://infoscience.epfl.ch/record/305129?&ln=en).
@@ -83,13 +101,13 @@ See also:
 - [A digital catalogue of Jerusalem’s Ayyubid and Mamluk architectures](https://github.com/YoussefMamlouk/digital_catalogue), MA semester project by **Youssef Mamlouk** (SysCom DataScience). Report available [here](https://github.com/YoussefMamlouk/digital_catalogue/tree/main/report).
 - The Cultural Microscope, BA semester project by **Louise Rieupouilh** (Computer science). Report not available.
 
-### Fall 2022
+### Fall 2022 — 2 projects
 
 - [Automatic Georeferencing of Historical Cadastres](https://github.com/theo-damiani/dhlab-semester-project), MA semester project by **Théo Damiani** (Computer Science). Report available [here](https://github.com/theo-damiani/dhlab-semester-project/blob/master/report.pdf).
 
 - Analyse et Préservation de Gameplay, MA semester project by **Kévin Faustini** (Communication Systems). Report not available.
 
-### Spring 2022
+### Spring 2022 — 10 projects
 
 - [Pushing the limits of optical character recognition on complex multilingual documents — Post-OCR correction](https://github.com/Zotchh/BAProject), BA semester project by **Jérôme Ceccaldi** (Computer Science). Report available [here](https://github.com/Zotchh/BAProject/blob/main/report/bachelor_project_report.pdf). 
 
@@ -111,7 +129,7 @@ See also:
 
 - [A generic method for cartographic realignment using local feature matching](https://github.com/JanMaxime/PDM), MA master project by **Maxime Jan** (Digital Humanities). Report available [here](https://github.com/JanMaxime/PDM/blob/master/report/PDM%20report%20Maxime%20Jan.pdf).
 
-### Fall 2021
+### Fall 2021 — 7 projects
 
 - [Dictionnary of novel characters (continued)](https://github.com/dh-epfl-students/character-relation-extraction), MA semester project by **Juliette Meurguet** (Communication Systems). Report not available.   
   
@@ -127,7 +145,7 @@ See also:
 
 - [Diachronic urban evolution from segmented maps of Jersualem](https://github.com/dhlab-epfl/diachronic-maps-jerusalem),  PhD semester project by **Paul Guhennec** (Digital Humanities). Results available [here](https://github.com/dhlab-epfl/diachronic-maps-jerusalem/tree/master/_movies). Article in preparation.
 
-### Spring 2021
+### Spring 2021 — 5 projects
 
 - [Character's Dictionary](https://github.com/dh-epfl-students/characters-dictionary), BA semester project (optional) by **Beatriz Borges** (Communication System). Report available [here](https://github.com/dh-epfl-students/characters-dictionary/blob/main/report/main.pdf), also followed by a [paper submission](https://github.com/dh-epfl-students/automatic-characters).
 
@@ -139,13 +157,13 @@ See also:
 
 - TO COMPLETE,  PhD semester project by **Didier Dupertuis** (Digital Humanities). Report not available.
 
-### Fall 2020
+### Fall 2020 — 2 projects
 
 - [Exploring a large corpus of historical newspapers through implicit entity networks](https://github.com/dh-epfl-students/impresso-LOAD-salomon), MA semester project by **Julien Salomon** (Communication Systems). Report available [here](https://github.com/dh-epfl-students/impresso-LOAD-salomon/blob/master/report/ImpressoLOAD%20Report%20Salomon.pdf).
 - Information extraction from Geneva botanical garden historical herbarium(s), Master project by **Simon Maulini**. Master thesis not available.
 
 
-### Spring 2020
+### Spring 2020 — 6 projects
 
 - [Exploring a large corpus of historical newspapers through implicit entity networks](https://github.com/dh-epfl-students/impresso-LOAD-pumford), MA semester project by **Isabelle Pumford** (Computer Science). Report available [here](https://github.com/dh-epfl-students/impresso-LOAD-pumford/blob/master/report/DHLAB_Report.pdf).
 
@@ -161,15 +179,15 @@ See also:
 
 
 
-### Fall 2019
-- [Metadata mining of large collections of historical newspapers(https://github.com/dh-epfl-students/impresso-metadata-explorer), MA semester project by **Justine Weber** (Data Science). Report available [here](https://github.com/dh-epfl-students/impresso-metadata-explorer/blob/master/report/report.pdf).
+### Fall 2019 — 3 projects
+- [Metadata mining of large collections of historical newspapers](https://github.com/dh-epfl-students/impresso-metadata-explorer), MA semester project by **Justine Weber** (Data Science). Report available [here](https://github.com/dh-epfl-students/impresso-metadata-explorer/blob/master/report/report.pdf).
 
 - [Improving handwritten text recognition with transfer learning](https://github.com/dh-epfl-students/htr-curriculum-semi-supervision), MA semester project by **Karthigan Sinnathamby**. Report available [here](https://github.com/dh-epfl-students/htr-curriculum-semi-supervision/blob/master/report/report.pdf).
 
 - [Historical newspaper article segmentation and classification using visual and textual features](https://github.com/dhlab-epfl/dhSegment-text-torch), PhD semester project by **Raphael Barman** (Digital Humanities). Journal publication available [here](https://infoscience.epfl.ch/record/282863).
 
 
-### Spring 2019
+### Spring 2019 — 7 projects
 - [Historical newspaper article segmentation and classification using visual and textual features](https://github.com/dhlab-epfl/dhSegment-text-torch), Master project by **Raphael Barman** (Digital Humanities). Master thesis available [here](https://infoscience.epfl.ch/record/271306?ln=en).
 
 - Automated geographical alignment procedure through dense point clouds simplification, Master project by **Loris Aiulfi**. Master thesis not available.
@@ -185,16 +203,22 @@ See also:
 - [Numérisation de masse : vers la création d’un nouvel acteur de l’information - Le Projet Time Machine](), Internship project by **Camille Besse** (Ecole Nationale des Chartes, Paris, France). Report not available.
 
 
-### Fall 2018
+---
+
+> **Note:** Systematic tracking of student projects in this file began in 2019. Entries before Fall 2019 are incomplete and were added retrospectively on a best-effort basis.
+
+---
+
+### Fall 2018 — 0 projects
 
 
-### Spring 2018
+### Spring 2018 — 2 projects
 - Citation entity disambiguation, XXX project by **Tao Sun** (Section). Report not available.
 - Reference parsing, XXX project by **Mattia Martinelli** (Section). Report not available.
 
 
 
-### Fall 2017
+### Fall 2017 — 3 projects
 - SmartCloud, MA semester project by **Loris Aiufli** (Section). Report not available).
 
 - Ancient Photogrammetry, Master project by **Yann Perret** (Section). Master thesis not available.
@@ -203,7 +227,7 @@ See also:
 
 
 
-### Spring 2017
+### Spring 2017 — 7 projects
 - Automatic extraction and cleaning of digitized photo archives, MA semester project by **Petrovski Bojan** (Section). Report not available.
 
 - Automatic metadata extraction of digitized photo archives, MA semester project by **Nie Shiyue** (Section). Report not available.
@@ -221,11 +245,21 @@ See also:
 
 
 
-### Fall 2016
+### Fall 2016 — 1 project
 - OCR Correction of *Le Temps*, Master project by **Laurent Valette** (Computer Science). Master thesis not available.
 
 
-### Spring 2016 
+### Spring 2016 — 1 project
 
 - Correcting the Optical Character Recognition of Swiss daily newspaper *Le Temps*, MA semester project by **Arnaud Miribel** (Communication Systems). Report available [here MISSING]().
+
+
+
+
+
+
+
+
+
+
 
