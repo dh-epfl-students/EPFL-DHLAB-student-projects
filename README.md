@@ -36,9 +36,11 @@ See also:
 
 _Projects to be added._
 
-[The Social Life of Images - Visual place recognition for Flickr Commons photographs via Mapillary feature matching]([add link to code repository](https://github.com/kimoal276/flickr-project)), BA semester project by **Karim Alameddine** (CS-BA3). Report available [here](add link to report).
+- [The Social Life of Images - Visual place recognition for Flickr Commons photographs via Mapillary feature matching]([add link to code repository](https://github.com/kimoal276/flickr-project)), BA research/semester project by **Karim Alameddine** (CS-BA3). Report available [here](add link to report).
 
+- [The Social Life of Images - SubTitle]([add link to code repository](https://github.com/kimoal276/flickr-project)), BA research/semester project by **Amine Zouzou** (IN-BA5). Report available [here](add link to report).
 
+- [The Vesuvius Challenge - Ink Detection](), MA research/semester project by **Romain Frossard**. Report available [here](add link to report).
 
 
 
