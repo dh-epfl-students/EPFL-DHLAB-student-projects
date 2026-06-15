@@ -36,6 +36,12 @@ See also:
 
 _Projects to be added._
 
+[The Social Life of Images - Visual place recognition for Flickr Commons photographs via Mapillary feature matching]([add link to code repository](https://github.com/kimoal276/flickr-project)), BA semester project by **Karim Alameddine** (CS-BA3). Report available [here](add link to report).
+
+
+
+
+
 ### Fall 2025 — 12 projects
 
 - [Armenian Epigraphy and Cultural Heritage Data Analysis](https://github.com/dhlab-epfl/dhlab-epigraphy-studies), MA research project by **Kamal Nour** (SC-MA4). Report available [here](https://github.com/dhlab-epfl/dhlab-epigraphy-studies/blob/main/DHLAB%20Semester%20project%20report-Kamal-NOUR-report.pdf).  
