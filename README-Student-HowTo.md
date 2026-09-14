@@ -55,7 +55,7 @@ You are free to structure your repository as you wish, but we advise to have:
 If necessary the DHLAB can grant you access to a machine on the IC cluster:
 
 - ask your supervisor to gain access;
-- login with gaspar credentials: ```ssh [gasparname]@iccluster0XX.iccluster.epfl.ch where 'XX' is the machine nb```     
+- login with gaspar credentials: ```ssh [gasparname]@dhlabsrv1.epfl.ch where 'XX' is the machine nb```     
 - the node usually has 
 	- 256GB of RAM, 
 	- 2 GPUs
@@ -112,7 +112,7 @@ c.NotebookApp.port = 8990 <= change this port, for ex. 8890, 8790, etc.
 
 You can ignore SSL certificates.
 
-If you run `jupyter notebook` the notebook will start and be accessible at http://iccluster0XX.iccluster.epfl.ch:8890 (you need to enter your password)
+If you run `jupyter notebook` the notebook will start and be accessible at http://dhlabsrv1.epfl.ch:8890 (you need to enter your password)
 
 In order to leave it open while you are executing things, you can run the notebook in a screen.
 
@@ -140,7 +140,7 @@ In order to leave it open while you are executing things, you can run the notebo
 - `screen -S work` => you are in a screen named "work" where you will launch the notebook
 - activate your env
 - start the nb (`jupyter notebook`) 
-- check the url `http://iccluster0XX.iccluster.epfl.ch:8890`
+- check the url `http://dhlabsrv1.epfl.ch:8890`
 - if all ok then exit the screen (`Ctr-a d`). You can now work in the notebook, open and close your browser as you want, it will keep running. 
 
 
